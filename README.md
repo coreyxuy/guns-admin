@@ -6,11 +6,6 @@ Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整�
 ## 直播预告
 这周日（11月25日）晚上7点，直播分享最新Guns旗舰版介绍，斗鱼直播间[https://douyu.com/stylefeng](https://douyu.com/stylefeng),欢迎收看
 
-## 2018年度最受欢迎开源软件评选
-Guns在行业多年始终坚持免费原则，也是一直在坚持维护系统。在Guns成长的这段期间，我在此真诚的感谢支持Guns，一直不停为Guns完善做出贡献的朋友们，因为有你们Guns才一点一点的变得越来越好。
-这次Guns参加了中国最受欢迎开源项目评比，目的就是让更多的人认识Guns、了解Guns、使用Guns。
-请大家帮忙投上一票，为我们的项目助力！
-https://www.oschina.net/project/top_cn_2018?sort=1
 
 ### Guns v5.1更新内容
 
@@ -179,5 +174,3 @@ jwt token鉴权机制是指若需要请求服务器接口，必须通过AuthCont
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0526/103822_58fd5d91_551203.png "在这里输入图片标题")
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0526/103827_d6218c74_551203.png "在这里输入图片标题")
 
-## 曾获荣誉
-![输入图片说明](https://gitee.com/uploads/images/2017/1015/151932_f1593f87_551203.jpeg "initpintu_副本_副本.jpg")
